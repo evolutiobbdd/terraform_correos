@@ -14,6 +14,7 @@ Esta ejecución creará un directorio en upgrade/tmp/test1 en donde se realizar�
 
 Estructura del repositorio: 
 
+```bash
  upgrade
 ├── import_template.tf
 ├── new_plan_template.tf
@@ -22,7 +23,7 @@ Estructura del repositorio:
 ├── tmp
 ├── upgrade_cluster.py
 └── vars.tf
-
+```
 
 Pasos realizados por el script: 
 
